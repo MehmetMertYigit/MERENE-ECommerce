@@ -38,3 +38,22 @@ This project leverages a well-structured Model-View architecture to decouple bus
                         | +ControlStock |
                         | +BuyProduct   |
                         +---------------+
+```
+
+## 💻 Tech Stack & Tools
+- Language: Java (JDK 8 or higher)
+
+- GUI Framework: Java Swing / AWT
+
+- IDE: NetBeans IDE
+
+⚙️ Installation & Running the App
+1. Clone this repository to your local machine:
+
+git clone [https://github.com/MehmetMertYigit/MERENE-ECommerce.git](https://github.com/MehmetMertYigit/MERENE-ECommerce.git)
+
+2. Open the project inside NetBeans IDE.
+
+3. Clean and build the project to settle dependencies.
+
+4. Run the LoginForm.java to start the application.
