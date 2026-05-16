@@ -50,7 +50,7 @@ This project leverages a well-structured Model-View architecture to decouple bus
 ## ⚙️ Installation & Running the App
 1. Clone this repository to your local machine:
 
- git clone [https://github.com/MehmetMertYigit/MERENE-ECommerce.git](https://github.com/MehmetMertYigit/MERENE-ECommerce.git)
+git clone [https://github.com/MehmetMertYigit/MERENE-ECommerce.git](https://github.com/MehmetMertYigit/MERENE-ECommerce.git)
 
 2. Open the project inside NetBeans IDE.
 
